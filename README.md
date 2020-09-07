@@ -1,8 +1,3 @@
-<h1 align="center">
-
-[![front-end](https://img.shields.io/badge/FrontEnd-React.js\Native-green.svg)](https://shields.io/) [![front-end](https://img.shields.io/badge/BackEnd-Node.js-blue.svg)](https://shields.io/) [![database](https://img.shields.io/badge/Database-NoSql-violet.svg)](https://shields.io/) [![skill](https://img.shields.io/badge/Skill-AWS-yellow.svg)](https://shields.io/)
-
-</h1>
 <h1 align="center">Skill Checker - Lambda Function + Slack Notification </h1>
 
 ### Objetivo
